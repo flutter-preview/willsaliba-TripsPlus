@@ -1,6 +1,5 @@
-# tripsplus
-
-A new Flutter project.
+#Trips Plus
+An app to help mates keep track of who owes who
 
 ## Getting Started
 
