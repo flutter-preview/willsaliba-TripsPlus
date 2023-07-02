@@ -1,4 +1,5 @@
-#Trips Plus
+#Trips Plus  
+
 An app to help mates keep track of who owes who
 
 ## Getting Started
