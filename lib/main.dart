@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
                 child: FloatingActionButton(
                   backgroundColor: const Color.fromARGB(255, 215, 215, 215),
                   child: const Icon(
-                    Icons.add, 
+                    Icons.notifications, 
                     color: Color.fromARGB(255, 30, 30, 30),
                   ),
                   onPressed: () { 
